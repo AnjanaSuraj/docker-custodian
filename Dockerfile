@@ -1,4 +1,4 @@
-FROM    alpine:latest
+FROM    alpine:3.2
 MAINTAINER Kyle Anderson <kwa@yelp.com>
 
 RUN     apk add -U python py-pip
